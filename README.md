@@ -5,6 +5,14 @@ Google doc meeting notes: https://docs.google.com/document/d/1itzTsBQ-0rhJn7LYnX
 # Data to be added
 1. Coordinates of different genomic features
 
+# Structure of github
+1. Data: This should contain data that is not expected to change for example the reference
+2. Results: This should contain preliminary data/results that we want to share between groups
+
+Each folder should have a date and short description. 
+
+Credit for structure: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+
 # 2021-12-08_genomic_gene_sequences
 ## Intro
 I am adding here gene sequences from 157 samples from three cohorts.
