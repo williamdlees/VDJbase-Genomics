@@ -1,4 +1,10 @@
 # VDJbase-Genomics
+
+Google doc meeting notes: https://docs.google.com/document/d/1itzTsBQ-0rhJn7LYnXz8YcQFoIKgyS-JrINFz3xalJc/edit
+
+# Data to be added
+1. Coordinates of different genomic features
+
 # 2021-12-08_genomic_gene_sequences
 ## Intro
 I am adding here gene sequences from 157 samples from three cohorts.
