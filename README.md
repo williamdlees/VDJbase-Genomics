@@ -6,8 +6,8 @@ Google doc meeting notes: https://docs.google.com/document/d/1itzTsBQ-0rhJn7LYnX
 1. Coordinates of different genomic features
 
 # Structure of github
-1. Data: This should contain data that is not expected to change for example the reference
-2. Results: This should contain preliminary data/results that we want to share between groups
+1. data/: This should contain data that is not expected to change for example the reference
+2. results/: This should contain preliminary data/results that we want to share between groups
 
 Each folder should have a date and short description. 
 
