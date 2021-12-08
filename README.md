@@ -4,7 +4,7 @@
 I am adding here gene sequences from 157 samples from three cohorts.
 
 ## Methods
-Sequences from nonomaer to start sites were extracted from the assemblies. 
+Sequences from nonomaer to start sites were extracted from the IGenotyper/genomic capture assemblies. 
 
 ## Results
 The eval_genes.txt file contains 12 columns:
