@@ -38,5 +38,5 @@ Example:
 ```
 
 ## Conclusions
-This is still missing the 5' UTR sequence. I will add it soonish but this is a start.
+This is still missing the 5' UTR sequence. I will add it soonish but this is a start. There are some errors in some of the sequences. But those shouldn't matter too much for now since this will be used to build/code the framework.
 
