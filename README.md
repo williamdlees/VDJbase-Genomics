@@ -21,6 +21,7 @@ The eval_genes.txt file contains 12 columns:
 11. nonamer length
 12. Sequence from nonomer to start site
 
+Example:
 ```
      1	W-55
      2	h=1
