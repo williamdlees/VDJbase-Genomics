@@ -2,9 +2,6 @@
 
 Google doc meeting notes: https://docs.google.com/document/d/1itzTsBQ-0rhJn7LYnXz8YcQFoIKgyS-JrINFz3xalJc/edit
 
-# Data to be added
-1. Coordinates of different genomic features
-
 # Structure of github
 1. data/: This should contain data that is not expected to change for example the reference
 2. results/: This should contain preliminary data/results that we want to share between groups
