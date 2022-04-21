@@ -1,0 +1,10 @@
+V6-1
+
+gene            79216   79701
+
+nonamer         79215   79224
+spacer          79224   79247
+heptamer        79247   79254
+exon2           79254   79570
+gencode_intron  79570   79653
+exon1           79653   79702
