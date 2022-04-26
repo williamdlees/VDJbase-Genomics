@@ -1,0 +1,1 @@
+python ../digby_human_genomics/python/make_gene_file.py data/2021-12-13_franken_gene_coords results/2022-04015_gene_lists/B-69_genes.csv --bam_file results/2022-04015_assemblies/B-69_assembly_to_franken.bam
