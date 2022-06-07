@@ -1,0 +1,66 @@
+IGHJ1
+
+IMGT annotation             GGTTTCTGT AGCCCCTGGCTCAGGGCTGACT CACCGTG gctgaatacttccagcactggggccagggcaccctggtcaccgtctcctcag
+IMGT annotation (3' to 5')  ctgaggagacggtgaccagggtgccctggccccagtgctggaagtattcagc CACGGTG AGTCAGCCCTGAGCCAGGGGCT ACAGAAACC         
+
+igh	4959	4966	IGHJ1	heptamer	CACGGTG
+igh	4989	4998	IGHJ1	nonamer	CAGAAACCC
+franken                                                                          CACGGTG AGTCAGCCCTGAGCCAGGGGCTA CAGAAACCC
+
+nonamer co-ords are out by one compared to IMGT annotation
+change to
+igh	4988	4997	IGHJ1	nonamer	AGAAACC
+
+
+IGHJ2
+
+IMGT annotation                            TGTTTTTGT ATGGGAGAAGCAGGAGGGCAGA GGCTGTG ctactggtacttcgatctctggggccgtggcaccctggtcactgtctcctcag
+IMGT 3' to 5'                              ctgaggagacagtgaccagggtgccacggccccagagatcgaagtaccagtag CACAGCC TCTGCCCTCCTGCTTCTCCCAT ACAAAAACA
+
+igh	4751	4758	IGHJ2	heptamer	GCACAGC
+igh	4758	4781	IGHJ2	spacer	CTCTGCCCTCCTGCTTCTCCCAT
+igh	4781	4790	IGHJ2	nonamer	ACAAAAACA
+
+heptamer co-ords need to shift up by one
+igh	4752	4759	IGHJ2	heptamer	CACAGCC
+igh	4759	4781	IGHJ2	spacer	TCTGCCCTCCTGCTTCTCCCAT
+
+IGHJ3
+
+IMGT annotation 3' to 5'                    ctgaagagacggtgaccattgtcccttggccccagatatcaaaagcatca CACAGGG ACACAGTCCCTGTTCCTGCCCAG ACATAAACC
+                                                                                                                               
+igh	4136	4143	IGHJ3	heptamer	ACACAGG
+igh	4143	4166	IGHJ3	spacer	GACACAGTCCCTGTTCCTGCCCA
+igh	4166	4175	IGHJ3	nonamer	GACATAAAC
+change to:
+igh	4137	4144	IGHJ3	heptamer	CACACAGGG
+igh	4144	4167	IGHJ3	spacer	ACACAGTCCCTGTTCCTGCCCAG
+igh	4167	4176	IGHJ3	nonamer	ACATAAACC
+
+IGHJ4
+
+IMGT annotation 3' to 5'                    ctgaggagacggtgaccagggttccctggccccagtagtcaaagtagt CACATTG TGGGAGGCCCCATTAAGGGGTGC ACAAAAACC
+
+igh	3761	3768	IGHJ4	heptamer	GTCACAT
+igh	3768	3791	IGHJ4	spacer	TGTGGGAGGCCCCATTAAGGGGT
+igh	3791	3800	IGHJ4	nonamer	GCACAAAAA
+change to
+igh	3763	3770	IGHJ4	heptamer	CACATTG
+igh	3770	3793	IGHJ4	spacer	TGGGAGGCCCCATTAAGGGGTGC
+igh	3793	3802	IGHJ4	nonamer	ACAAAAACC
+
+IGHJ5
+
+IMGT annotation 3' to 5'                    ctgaggagacggtgaccagggttccctggccccaggggtcgaaccagttgt CACATTG TGACAACAATGCCAGGACCCCAG GCAAGAACT
+change to:
+igh	3365	3372	IGHJ5	heptamer	CACATTG
+igh	3372	3395	IGHJ5	spacer	TGACAACAATGCCAGGACCCCAG
+igh	3395	3404	IGHJ5	nonamer	GCAAGAACT
+
+IGHJ6
+
+IMGT annotation 3' to 5'                    ctgaggagacggtgaccgtggtccctttgccccagacgtccatgtagtagtagtagtagtaat CACAATG GCAGAATGTCCATCCTCACCCC ACAAAAACC
+
+igh	2761	2768	IGHJ6	heptamer	CACAATG
+igh	2768	2790	IGHJ6	spacer	GCAGAATGTCCATCCTCACCCC
+igh	2790	2799	IGHJ6	nonamer	ACAAAAACC              
