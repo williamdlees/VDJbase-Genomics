@@ -2,6 +2,7 @@
 
 import csv
 from importlib.machinery import SourceFileLoader
+import os
 
 
 # files containing the genes in a locus (and pseudogenes to be ignored)
@@ -11,7 +12,7 @@ order_files = {
 }
 
 # the directory containing co-ordinate files
-coord_dir = 'data/2021-12-13_franken_gene_coords'
+coord_dir = '2021-12-13_franken_gene_coords'
 
 # the loci to check
 loci = ['IGH']
@@ -29,7 +30,7 @@ coord_files = {
 # enumerate genes in a file
 def genes_in_coord_file(filename):
     genes = []
-    with open(coord_dir+filename, 'r') as fi:
+    with open(os.path.join(coord_dir, filename), 'r') as fi:
         reader = csv.reader(fi, delimiter='\t')
         for row in reader:
             genes.append(row[3])
@@ -44,7 +45,7 @@ def genes_in_locus(locus):
 
     gene_set = {}
     for gene_type in ['V', 'D', 'J']:
-        gene_set[gene_type] = [gene for gene in genes if gene_type in gene]
+        gene_set[gene_type] = [gene for gene in genes if (locus in gene and gene_type in gene)]
 
     return gene_set
 
