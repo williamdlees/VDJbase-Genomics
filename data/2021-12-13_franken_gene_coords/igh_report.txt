@@ -1,0 +1,38 @@
+C:\Users\William\miniconda3\python.exe "C:\Program Files\JetBrains\PyCharm 2021.2.1\plugins\python\helpers\pydev\pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 58264 --file D:/Research/VDJbase-Genomics/python/check_genes_present.py
+Connected to pydev debugger (build 212.5457.59)
+IGHV7-77 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV4-38-2 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV1-8 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV3-NL1 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV3-9 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV3-62 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV4-30-1 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV1-38-4 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV3-64D missing from exon_1.bed
+IGHV3-51-1 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV1-69-2 missing from exon_1.bed
+IGHV3-25 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV8-51-1 missing from exon_1.bed, exon_2.bed, gencode_intron.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD4-11 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD5-18 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD7-27 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD6-6 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD4-4 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD5-5 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD1-26 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD1-20 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD5-12 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD1-7 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD4-23 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD1-14 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD4-17 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD1-1 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD5-24 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD2-21 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHV3-64D missing from exon_1.bed
+IGHD6-13 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD6-25 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+IGHD6-19 missing from exon_1.bed, genes.bed, heptamer.bed, nonamer.bed, spacer.bed
+
+Process finished with exit code 0

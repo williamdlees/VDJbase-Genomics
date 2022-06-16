@@ -53,6 +53,7 @@ def genes_in_locus(locus):
 # run the checks
 for locus in loci:
     gene_set = genes_in_locus(locus)
+    missing_genes = []
 
     gene_types = ['V', 'J']
 
@@ -74,6 +75,9 @@ for locus in loci:
 
             if missing:
                 print(f"{gene} missing from {', '.join(missing)}")
+                missing_genes.append(gene)
+
+    print(f"Missing genes: {missing_genes}")
 
 
 
