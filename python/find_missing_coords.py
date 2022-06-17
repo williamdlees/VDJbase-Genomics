@@ -186,7 +186,23 @@ for bedfile in files_to_update:
         reader = csv.reader(fi, delimiter='\t')
         writer = csv.writer(fo, delimiter='\t')
         rows = [row for row in reader if row[1]]
-        rows.extend(added_records[bedfile])
+        included_genes = [row[3] for row in rows]
+        added = []
+        for row in added_records[bedfile]:
+            #if '64D' in row[3]:
+            #    breakpoint()
+
+            if row[3] in included_genes and row[1] not in added:
+                print(f"replacing existing record for {row[3]} in {bedfile} ")
+                for i in range(len(rows)):
+                    if rows[len(rows) - i - 1][3] == row[3]:
+                        del rows[len(rows) - i - 1]
+
+            if row[1] not in added:
+                rows.append(row)
+                added.append(row[1])
+            else:
+                print(f"skipping duplicated new annotation for {row[3]}")
         for row in rows:
             row[1] = int(row[1])
             row[2] = int(row[2])
