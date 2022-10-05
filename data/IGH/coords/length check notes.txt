@@ -1,0 +1,64 @@
+3-38 - make length agree with IMGT - not reason why not
+5-10-1  make length 294 - the length of *01 and *03. *02 not seen in VDJbase.
+3-16 - make length agree with IMGT
+2-26 - make length agree with IMGT - spacer and nonamer look much better
+4-30-4 - increase to IMGT max of 299 - looks good for RSS
+3-35 - make length agree with IMGT
+3-38-3 make length agree with IMGT
+5-51 - increase to longest IMGT
+3-72 make length agree with IMGT
+3-73 make length agree with IMGT
+
+
+(this is post- 3-38, 5-10-1)
+IGHV5-10-1: length issue
+   franken: 294
+   IGHV5-10-1*01: 294
+   IGHV5-10-1*02: 295
+   IGHV5-10-1*03: 294
+   IGHV5-10-1*04: 294
+IGHV3-16: length issue
+   franken: 294
+   IGHV3-16*01: 296
+   IGHV3-16*02: 296
+IGHV2-26: length issue
+   franken: 300
+   IGHV2-26*01: 301
+   IGHV2-26*02: 301
+   IGHV2-26*03: 301
+   IGHV2-26*04: 301
+IGHV4-30-4: length issue
+   franken: 291
+   IGHV4-30-4*01: 299
+   IGHV4-30-4*02: 299
+   IGHV4-30-4*03: 290
+   IGHV4-30-4*04: 290
+   IGHV4-30-4*05: 228
+   IGHV4-30-4*06: 227
+   IGHV4-30-4*07: 299
+   IGHV4-30-4*08: 298
+IGHV3-35: length issue
+   franken: 294
+   IGHV3-35*01: 296
+   IGHV3-35*02: 296
+IGHV3-38-3: length issue
+   franken: 289
+   IGHV3-38-3*01: 290
+IGHV5-51: length issue
+   franken: 294
+   IGHV5-51*01: 296
+   IGHV5-51*02: 296
+   IGHV5-51*03: 294
+   IGHV5-51*04: 294
+   IGHV5-51*05: 245
+   IGHV5-51*06: 294
+   IGHV5-51*07: 296
+IGHV3-72: length issue
+   franken: 300
+   IGHV3-72*01: 302
+IGHV3-73: length issue
+   franken: 300
+   IGHV3-73*01: 302
+   IGHV3-73*02: 302
+
+Process finished with exit code 0
