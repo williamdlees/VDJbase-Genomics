@@ -1,0 +1,54 @@
+In old	In T2T						
+Y	F		IGLV4-69				
+	F		IGLV5-37	low similarity score			
+Y	F		IGLV10-54				
+Y	F		IGLV8-61				
+Y	P		IGLV4-60	imgt score 99.3 nt_diff 139			single nucleotide deletion in T2T V-REGION
+Y	F		IGLV6-57				
+Y	ORF		IGLV11-55				
+Y	F		IGLV5-52				
+Y	F		IGLV1-51				
+Y	F		IGLV1-50				
+Y	F		IGLV9-49				
+Y	ORF		IGLV5-48				
+Y	F		IGLV1-47				
+Y	F		IGLV7-46				
+Y	F		IGLV5-45				
+Y	F		IGLV1-44				
+Y	F		IGLV7-43				
+	F		IGLV5-39				
+Y	F		IGLV1-40				
+Y	F		IGLV5-37				
+Y	F		IGLV1-36				
+Y	F		IGLV2-33				
+Y	P		IGLV3-32	"87% id, looks wrongly aligned. IMGT annotation is ORF: missing second cysteine, bad DONOR-SPLICE"			
+Y	F		IGLV3-27				
+Y	F		IGLV3-25				
+Y	F		IGLV2-23				
+Y	F		IGLV3-22				
+Y	F		IGLV3-21				
+Y	F		IGLV3-19				
+Y	F		IGLV2-18				
+Y	P		IGLV3-16	100% match in V-REGION but bad leader			
+Y	F		IGLV2-14				
+Y	F		IGLV3-12				
+Y	F		IGLV2-11				
+Y	F		IGLV3-10				
+Y	F		IGLV3-9				
+Y	F		IGLV2-8				
+Y	F		IGLV4-3				
+Y	F		IGLV3-1				
+Y			IGLC7				
+Y			IGLC6				
+Y			IGLC5				
+Y			IGLC4				
+Y			IGLC3				
+Y			IGLC2				
+Y			IGLC1				
+Y	F		IGLJ7	these are in reverse order in the bed file			
+Y	F		IGLJ6				
+Y	P		IGLJ5				
+Y	P		IGLJ4				
+Y	F		IGLJ3				
+Y	F		IGLJ2				
+Y	F		IGLJ1				

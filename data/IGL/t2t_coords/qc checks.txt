@@ -1,0 +1,40 @@
+these are all P or ORF:
+
+C:\Users\William\miniconda3\envs\digby_genomics310\python.exe "C:/Program Files/JetBrains/PyCharm 2023.1/plugins/python/helpers/pydev/pydevd.py" --multiprocess --qt-support=auto --client 127.0.0.1 --port 55846 --file D:\Research\VDJbase-Genomics\python\check_genes_present.py 
+Connected to pydev debugger (build 231.8109.197)
+IGLV2-5 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV11-55 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV1-41 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV1-62 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV2-33 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV5-48 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV3-13 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV2-34 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV8/OR8-1 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV3-31 missing from UTR.bed, EXON_1.bed, EXON_2.bed, INTRON.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLV5-39 missing from UTR.bed
+IGLV6-57 missing from UTR.bed
+IGLV10-54 missing from UTR.bed
+IGLV4-60 missing from UTR.bed
+IGLJ4 missing from EXON_1.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+IGLJ5 missing from EXON_1.bed, GENE.bed, HEPTAMER.bed, NONAMER.bed, SPACER.bed
+Missing genes: ['IGLV2-5', 'IGLV11-55', 'IGLV1-41', 'IGLV1-62', 'IGLV2-33', 'IGLV5-48', 'IGLV3-13', 'IGLV2-34', 'IGLV8/OR8-1', 'IGLV3-31', 'IGLV5-39', 'IGLV6-57', 'IGLV10-54', 'IGLV4-60', 'IGLJ4', 'IGLJ5']
+
+Process finished with exit code 0
+
+
+(for comments on messages below, see the code)
+C:\Users\William\miniconda3\envs\digby_genomics310\python.exe "C:/Program Files/JetBrains/PyCharm 2023.1/plugins/python/helpers/pydev/pydevd.py" --multiprocess --qt-support=auto --client 127.0.0.1 --port 57128 --file D:\Research\VDJbase-Genomics\python\make_t2t_IGL_beds.py 
+Connected to pydev debugger (build 231.8109.197)
+L-PART2 mismatch for IGLVX-XX
+V-REGION mismatch for IGLVX-XX
+Sequence mismatch with IMGT reference for IGLV4-60
+L-PART2 mismatch for IGLV9-49
+V-REGION mismatch for IGLV9-49
+EXON_1 mismatch for IGLV3-32
+L-PART2 mismatch for IGLV3-32
+V-REGION mismatch for IGLV3-32
+Sequence mismatch with IMGT reference for IGLV2-14
+
+Process finished with exit code 0
+
